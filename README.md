@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Tomás
 
-<!--
-**tomasromero-g/tomasromero-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student (UTN) learning backend development.
 
-Here are some ideas to get you started:
+I'm not just doing the coursework — I'm putting together my own path: learning the tools and stack actually used in backend jobs, one real project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🗺️ Roadmap — Software development, specializing in backend *(job-ready by early 2028)*
+
+- [x] **Phase 1:** Python Fundamentals + FastAPI basics 🚧 *(FastAPI in progress)*
+- [ ] **Phase 2:** PostgreSQL, Authentication, Testing
+- [ ] **Phase 3:** Docker & Cloud Deployment
+- [ ] **Phase 4:** Portfolio polish & Job hunting
+
+---
+
+### 📂 Projects
+
+- **[todo-habits-api](https://github.com/tomasromero-g/todo-habits-api)** — REST API for tasks and recurring habits, built with FastAPI. *(Project 1 — in progress)*
+- **[python-learning](https://github.com/tomasromero-g/python-learning)** — Python fundamentals and exercises.
+
+---
+
+*Currently focused on FastAPI and backend fundamentals. Learning in public.*
