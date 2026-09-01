@@ -21,7 +21,7 @@ I'm not just doing the coursework — I'm putting together my own path: learning
 
 ### 📂 Projects
 
-- **[todo-habits-api](https://github.com/tomasromero-g/todo-habits-api)** — REST API for tasks and recurring habits, built with FastAPI. *(Project 1 — in progress)*
+- **[todo-api](https://github.com/tomasromero-g/todo-api)** — REST API for tasks and recurring habits, built with FastAPI. *(Project 1 — in progress)*
 - **[python-learning](https://github.com/tomasromero-g/python-learning)** — Python fundamentals and exercises.
 
 ---
