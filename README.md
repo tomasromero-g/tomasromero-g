@@ -8,11 +8,11 @@ I'm not just doing the coursework — I'm putting together my own path: learning
 
 ### 🧰 Stack
 
-**Languages**
+**Languages**<br><br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Tools**<br><br>
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -34,5 +34,5 @@ I'm not just doing the coursework — I'm putting together my own path: learning
   
 ---
 
-*Currently focused on FastAPI and backend fundamentals. Learning in public.*
+*Currently focused on FastAPI and backend fundamentals. Learning in public.*<br>
 *Also picking up Java through coursework — currently syntax and OOP fundamentals, backend coming soon.*
